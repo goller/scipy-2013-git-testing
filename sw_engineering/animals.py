@@ -71,8 +71,7 @@ def mean(nums):
     m : number
 
     """
-    # fill this in
-
+    
 
 def filter_animals_by_kind(kind, date, time, species, count):
     """
